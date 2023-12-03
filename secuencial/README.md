@@ -9,4 +9,5 @@ La ejecucion del programa se hace escribiendo el siguiente comando:
 
 
 donde los valores son:
-<programa> <imagen de entrada> <imagen de salida>
+
+"<programa> <imagen de entrada> <imagen de salida>"
